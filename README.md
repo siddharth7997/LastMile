@@ -2,7 +2,7 @@
 `Last Mile` is a Distributed E-Learning System for the student in India, especially the villages of India, by leveraging a `cloud storage` platform to meet the needs of data storage
 and management, which is cost-effective (using single-board computers such as `raspberry pi`), easily accessible to all irrespective of age, gender, creed etc and whose quality is better than, if not equal to the education provided in cities, for the betterment of the country.
 
-### [Source Code](https://github.com/siddharth7997/LastMile)
+### [Source Code]()
 
 # Required Softwares
 ## Server Side
@@ -105,7 +105,13 @@ mv -r /lastmile /var/www/html/
 
 
 
+# Android Apps
 
+We have two different android apps for user and operators. 
 
-
-
+* Features of app for user:
+	* Allows user to view various new courses and download them to thier device
+	* Request for new Courses
+* Features of app for operator:
+	* Update the device
+	* Block the users while update
